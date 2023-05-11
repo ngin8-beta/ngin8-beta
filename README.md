@@ -3,10 +3,12 @@
 - 🌱 I'm focusing on Competitive Programming (Atcoder) right now.
 
 ## Tech Stack
+
 - Programming languages: Go, C++
 - Tools: Git, Docker
 
 ## GitHub Stats
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=v8yte&theme=onedark&show_icons=true"/>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8yte&layout=compact&theme=onedark"/> 
