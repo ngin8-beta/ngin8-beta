@@ -7,8 +7,8 @@
 
 ## GitHub Stats
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=v8yte&theme=onedark&show_icons=true"/>
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v8yte&layout=compact&theme=onedark"/> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-v8yte.vercel.app/api?username=v8yte&theme=onedark&show_icons=true"/>
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-v8yte.vercel.app/api/top-langs/?username=v8yte&layout=compact&theme=onedark"/> 
 </p>
 
 ## Languages and Tools:
