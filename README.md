@@ -1,4 +1,4 @@
-# Hello, I'm v8yte! 👋
+# Hello, I'm coffeeCat! 👋
 - 🌱 I'm focusing on Competitive Programming (Atcoder) right now.
 
 ## Tech Stack
