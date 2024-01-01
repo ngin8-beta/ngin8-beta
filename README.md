@@ -3,7 +3,7 @@
 
 ## Tech Stack
 - Programming languages: Go, C++
-- Tools: Git, Docker
+- Tools: AWS, Docker
 
 ## GitHub Stats
 <p align="left"> 
