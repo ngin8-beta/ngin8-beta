@@ -1,8 +1,10 @@
 # Hello, I'm coffeeCat! 👋
-- 🌱 I'm focusing on Competitive Programming (Atcoder) right now.
+- I usually work as an infrastructure engineer.
+- Recently, I have been interested in the field of security.
 
 ## Tech Stack
 - Programming languages: Go, C++
+- Middleware: Apache, Nginx, Postfix, Bind
 - Tools: AWS, Docker
 
 ## GitHub Stats
