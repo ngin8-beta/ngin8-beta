@@ -1,6 +1,7 @@
 # Hello, I'm coffeeCat! 👋
 - I usually work as an infrastructure engineer.
 - Recently, I have been interested in the field of security.
+- Arch Linux User.
 
 ## Tech Stack
 - Programming languages: Go, C++
