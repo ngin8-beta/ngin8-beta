@@ -4,7 +4,7 @@
 - Arch Linux User.
 
 ## Tech Stack
-- Programming languages: Go, C++
+- Programming languages: Go, Python, Bash
 - Middleware: Apache, Nginx, Postfix, Bind
 - Tools: AWS, Docker
 
