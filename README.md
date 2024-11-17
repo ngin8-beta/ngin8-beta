@@ -6,7 +6,7 @@
 ## Tech Stack
 - Programming languages: Go, Python, Bash
 - Middleware: Apache, Nginx, Postfix, Bind
-- Tools: AWS, Docker
+- Tools: AWS, Docker, Terraform, Ansible, Git
 
 ## GitHub Stats
 <p align="left"> 
