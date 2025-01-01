@@ -3,13 +3,13 @@
 - I love Arch Linux.
 
 ## Tech Stack
-### Programming languages
+### ■ Programming languages
 [![My Skills](https://skillicons.dev/icons?i=go,python,bash&theme=light)](https://skillicons.dev)
-### Middleware
+### ■ Middlewares
 [![My Skills](https://skillicons.dev/icons?i=nginx&theme=light)](https://skillicons.dev)
-### Database
+### ■ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis&theme=light)](https://skillicons.dev)
-### Infrastracture tools
+### ■ Infrastracture tools
 [![My Skills](https://skillicons.dev/icons?i=aws,openstack,kubernetes,docker,terraform,ansible&theme=light)](https://skillicons.dev)  
 
 ## GitHub Stats
@@ -17,3 +17,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-phi-sepia.vercel.app/api?username=ngin8-beta&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github"/>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-phi-sepia.vercel.app/api/top-langs/?username=ngin8-beta&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> 
 </p>
+
+## Contact
+- X: [@ngin8_beta](https://x.com/ngin8_beta)
+- Email: v8@ngin8-beta.com
