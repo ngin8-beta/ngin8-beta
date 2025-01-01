@@ -14,6 +14,6 @@
 
 ## GitHub Stats
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-phi-sepia.vercel.app/api?username=v8yte&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github"/>
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-phi-sepia.vercel.app/api/top-langs/?username=v8yte&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-phi-sepia.vercel.app/api?username=ngin8-beta&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github"/>
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-phi-sepia.vercel.app/api/top-langs/?username=ngin8-beta&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> 
 </p>
