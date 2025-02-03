@@ -19,5 +19,5 @@
 </p>
 
 ## Contact
-- X: [@ngin8_beta](https://x.com/ngin8_beta)
+- X: [@v8yte](https://x.com/v8yte)
 - Email: v8@ngin8-beta.com
