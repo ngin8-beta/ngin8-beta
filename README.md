@@ -1,6 +1,4 @@
 # Hello, I'm ngin8-beta! 👋
-- I'm a SRE
-- I love Arch Linux.
 
 ## Tech Stack
 ### ■ Programming languages
